@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manoel de Castro</h1>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/ManoeldeCastro/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManoeldeCastro)](https://github.com/ManoeldeCastro/github-readme-stats)
 - 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning abount **React, TypeScript**
