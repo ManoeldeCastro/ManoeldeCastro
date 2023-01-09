@@ -6,9 +6,13 @@
 
 - 🌱 I’m currently learning abount **React, TypeScript**
 
+- 💻 Costs [Costs](https://github.com/ManoeldeCastro/costs/)
+
 - ⚽ Cup calendar [Calendar](https://manoeldecastro.github.io/Projeto-Copa/)
 
 - 🤝 Pomodoro Timer [Focus Timer](https://manoeldecastro.github.io/Projeto-Pomodoro/)
+
+- 🔎 Search zip code [Zip code](https://manoeldecastro.github.io/Buscador-CEP/)
 
 - 💬 Ask me about **React, JavaScript, CSS and HTML**
 
