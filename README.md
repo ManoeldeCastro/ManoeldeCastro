@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning abount **React, TypeScript**
 
+- 🎬 Movies library [Movies](https://movie-librarymd.netlify.app/)
+
 - 💻 Costs [Costs](https://github.com/ManoeldeCastro/costs/)
 
 - ⚽ Cup calendar [Calendar](https://manoeldecastro.github.io/Projeto-Copa/)
