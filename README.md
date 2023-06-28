@@ -16,7 +16,7 @@
 
 - 🔎 Search zip code [Zip code](https://manoeldecastro.github.io/Buscador-CEP/)
 
-- 💬 Ask me about **React, JavaScript, CSS and HTML**
+- 💬 Ask me about **Next, TypeScript, React, JavaScript, CSS and HTML**
 
 
 
