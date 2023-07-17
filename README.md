@@ -363,7 +363,6 @@
     <img src="./components/icons/instagram.png" alt="Etiqueta do Instagram" height="30px" />
     &nbsp;
   </a>
-  <img src="./components/icons/discord.png" alt="Etiqueta do Discord" height="30px" />
 </p>
 <br/><br/>
 <hr/>
