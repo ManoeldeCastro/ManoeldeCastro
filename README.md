@@ -355,7 +355,7 @@
     <img src="./components/icons/telegram.png" alt="Etiqueta do Telegram" height="30px" />
     &nbsp;
   </a>
-  <a href="https://wa.me/5584994505773?text=Yo,%20Luk4x!%20Vim%20pelo%20seu%20Github!" target="_blank">
+  <a href="https://wa.me/5584994505773?text=Olá,%20Manoel%20Dias%20Vim%20pelo%20seu%20Github!" target="_blank">
     <img src="./components/icons/whatsapp.png" alt="Etiqueta do Whatsapp" height="30px" />
     &nbsp;
   </a>
