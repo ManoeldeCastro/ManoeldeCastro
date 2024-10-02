@@ -8,7 +8,7 @@
   <li>🤩️ Apaixonado por Programação, Filmes e Música.</li>
   <li>💻 <b>Trabalho</b> na <a href="https://github.com/easy-step" target="_blank">Plorea / EasyStep</a> e já estudei na <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Video</a>.</li>
   <li>🔭 Com <b>experiência</b>, tenho autonomia em diversas das tecnologias Front-end mais relevantes do mercado.</li>
-  <li>🔮 Estou me especializando em Front-end, mas tenho noções de Back-end e Mobile, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
+  <li>🔮 Estou me especializando em Full-Stack.</li>
   <li>🚀 Evoluindo continuamente em <strong>React.js</strong> e em seu ecossistema.</li>
   <li>🇺🇸 Tenho inglês Básico/intermediário.</li>
   <li>🎮 Curto jogar <a href="https://tracker.gg/valorant/profile/riot/Luk4x%23Luk4x/agents?playlist=unrated&season=all" target="_blank">Valorant</a> e <a href="https://www.chess.com/member/kiy0u" target="_blank">Xadrez</a>.</li>
